@@ -1,0 +1,58 @@
+.loginbox{
+    font-size: medium;
+    width: 290px;
+    padding: 9px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    border: 1px solid rgb(244, 4, 4);
+    border-width: 3px;
+    margin-left: 490px;
+    margin-top: 130px;
+    background-color: rgb(143, 243, 238);
+}
+
+#email{
+    font-size: 20px;
+}
+#mypic{
+    height: 200px;
+    width: 200px;
+    border-radius: 70%;
+    object-fit: cover;
+    
+ }
+
+#password{
+    font-size: 20px;
+}
+
+#submit{
+    float: right;
+    width: 80px;
+    font-size: 15px;
+    padding-right: 30px;
+    padding-left: 18px;
+    border-color: rgb(255, 0, 0);
+} 
+
+.signbox{
+    font-size: medium;
+    width: 340px;
+    padding: 9px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    border: 1px solid rgb(15, 16, 15);
+    border-width: 3px;
+    margin-left: 490px;
+    margin-top: 130px;
+    background-color: rgb(119, 250, 228);
+    color: rgb(4, 0, 11);
+}
+    body{
+        background-size:cover;
+    
+}
